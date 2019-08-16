@@ -1,0 +1,18 @@
+
+
+h1{
+  font-style: italic;
+  position: relative;
+  margin: 50px;
+  padding: 50px;
+}
+
+.lil-icon{
+float: left;
+position: absolute;
+}
+
+p{
+  text-align: center;
+  
+}
